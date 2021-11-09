@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey there! My name is REALSDEALS
 
-<!--
-**REALSDEALS/REALSDEALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22 year old which has a passion for coding and learning on how to code!
 
-Here are some ideas to get you started:
+## 🛠 Skills
+My main languages that I'm familliar with are:
+- HTML/CSS
+- Javascript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## More random info!
+👩‍💻 I'm currently working on a MC Server Project
+
+🧠 I'm currently learning SQL & LUA
+
+👯‍♀️ I'm looking to collaborate on OpenPLI
+
+🤔 I'm looking for help with OpenPLI
+
+💬 Ask me about my MC Server Project!
+
+📫 [Mail me!](mailto:realsdeals@gmail.com?subject=Question% "Question?") for any questions you might have.
+
+⚡️ Fun fact: I'm way to old for this shit...
+
