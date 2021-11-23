@@ -5,16 +5,16 @@ I'm a 22 year old which has a passion for coding and learning on how to code!
 ## 🛠 Skills
 My main languages that I'm familliar with are:
 - HTML/CSS
-- Javascript
+- JavaScript
 - Python
-
+- BatchFile
 
 
 
 ## More random info!
 👩‍💻 I'm currently working on a MC Server Project
 
-🧠 I'm currently learning SQL & LUA
+🧠 I'm currently learning LUA
 
 👯‍♀️ I'm looking to collaborate on OpenPLI
 
