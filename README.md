@@ -15,7 +15,7 @@ My main languages that I'm familliar with are:
 
 ## More random info!
 
-👩‍💻 I'm currently working on a MC Server Project
+👩‍💻 I'm currently working on a pc_Health Project
 
 🧠 I'm currently learning LUA
 
