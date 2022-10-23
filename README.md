@@ -1,4 +1,4 @@
-### Hey! My name is REALSDEALS!
+### Hey! My name is REALSDEALS and welcome to my GitHub page!
 
 ## I'm a IT-student and learning the ropes of cybersecurity and networking.
 - Currently working on a GUI version of pc_Health
@@ -14,12 +14,11 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][website]
 
 <br>
-<br>
 
 ---
 
 <details>
-  <summary>:zap Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="REALSDEALS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=REALSDEALS&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
