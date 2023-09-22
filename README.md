@@ -1,9 +1,5 @@
 ### Hey! My name is REALSDEALS and welcome to my GitHub page!
 
-## I'm a IT-student and learning the ropes of cybersecurity and networking.
-- Currently working on a GUI version of pc_Health
-- Improving and learning other languages like: C#, PHP and JavaScript
-
 <br>
 
 ### Languages and Tools:
