@@ -1,4 +1,4 @@
-# Welcome to my GitHub page.
+# Welcome to my GitHub page
 
 I focus on scripting lightweight modules to diagnose unknown or vague problems with your Windows system, I focus on
 automation and internal implementation of policies and scripts withing Azure environments besides that I focus on a
@@ -11,7 +11,7 @@ made with educational purposes in mind and to help others learn etc.
 
 ## Languages and Tools
 
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
         width="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"
@@ -40,8 +40,6 @@ made with educational purposes in mind and to help others learn etc.
 Stats](https://github-readme-stats.vercel.app/api?username=REALSDEALS&show_icons=true&count_private=true&hide_rank=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=REALSDEALS&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=REALSDEALS&theme=default)
 
 ---
 
