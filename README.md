@@ -1,11 +1,11 @@
 # Welcome to my GitHub page
 
 I focus on scripting lightweight modules to diagnose unknown or vague problems with your Windows system, I focus on
-automation and internal implementation of policies and scripts withing Azure environments besides that I focus on a
+automation and internal implementation of policies and scripts within Azure environments. Besides that I focus on
 cybersecurity and gatekeeping of endpoints.
 
 The open projects on my GitHub page are small hobby projects that (mostly) have nothing to do with my work, they are
-made with educational purposes in mind and to help others learn etc.
+made with educational purposes in mind and to help others learn.
 
 ---
 
