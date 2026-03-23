@@ -1,57 +1,64 @@
-# Welcome to my GitHub page
+### Cloud Automation & Security Specialist
 
-I focus on scripting lightweight modules to diagnose unknown or vague problems with your Windows system, I focus on
-automation and internal implementation of policies and scripts within Azure environments. Besides that I focus on
-cybersecurity and gatekeeping of endpoints.
-
-The open projects on my GitHub page are small hobby projects that (mostly) have nothing to do with my work, they are
-made with educational purposes in mind and to help others learn.
+Passionate about engineering lightweight, modular solutions for complex diagnostic challenges and streamlining infrastructure through advanced automation. My professional focus centers on internal policy implementation, Azure environment optimization, and robust endpoint security.
 
 ---
 
-## Languages and Tools
+## Technical Specializations
+
+- **Cloud & Automation:** Architecting scalable Azure environments, implementing automated policies, and CI/CD integration.
+- **Systems Engineering:** Developing diagnostic toolkits for Windows environments using PowerShell, Batch, and C#.
+- **Cybersecurity:** Hardening endpoint security, gatekeeping infrastructure, and developing proactive defense scripts.
+- **Tooling:** Crafting high-performance, low-overhead modules for system health and automated repair scripts.
+
+---
+
+## Tech Stack
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
-        width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"
-        width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"
-        alt="PowerShell" width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
-        width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"
-        width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="JavaScript" width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"
-        width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"
-        width="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"
-        width="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" />
 </p>
 
 ---
 
 ## GitHub Stats
 
-![REALSDEALS' GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=REALSDEALS&show_icons=true&count_private=true&hide_rank=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=REALSDEALS&layout=compact&theme=default)
-
----
-
-## Highlighted Projects
-
-- [pcHealth](https://github.com/REALSDEALS/pcHealth) – A complete system health toolkit built with Batch and PowerShell,
-focused on diagnostics and repair.
-- [Win_Scan](https://github.com/REALSDEALS/Win_Scan) – A lightweight, modular system scan tool for Windows environments,
-designed for quick diagnostics and simple dll repairs.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=REALSDEALS&show_icons=true&count_private=true&hide_rank=true&theme=nord" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REALSDEALS&layout=compact&theme=nord" alt="Top Languages" />
+</p>
 
 ---
 
-## Contact
+## Featured Open-Source Projects
 
-I'm always open to feedback and collaboration. If my work interests you, feel free to connect or contribute.
+The following projects represent my commitment to educational outreach and building accessible diagnostic tools for the community.
+
+- **[pcHealth](https://github.com/REALSDEALS/pcHealth)**
+  *Comprehensive system health toolkit.*
+  - Engineered using a hybrid Batch/PowerShell architecture.
+  - Features automated diagnostics, repair routines, and performance optimization modules.
+
+- **[Win_Scan](https://github.com/REALSDEALS/Win_Scan)**
+  *Modular diagnostic scanner.*
+  - Lightweight utility for Windows environment verification.
+  - Specialized in rapid system health checks and DLL integrity restoration.
+
+---
+
+## Connect & Collaborate
+
+I am always interested in discussing infrastructure automation, security research, or collaborative engineering efforts.
+
+- **Feedback:** Open to pull requests and technical discussions.
